@@ -1,0 +1,13 @@
+period_end_date,period_type,statement_type,reporting_type,currency,unit,line_item,value
+2024-03-31,annual,income,consolidated,INR,crores,Total Revenue,240893.0
+2024-03-31,annual,income,consolidated,INR,crores,Operating Income,59346.0
+2024-03-31,annual,income,consolidated,INR,crores,Net Income,46099.0
+2024-03-31,annual,income,consolidated,INR,crores,Interest Expense,779.0
+2024-03-31,annual,income,consolidated,INR,crores,Diluted EPS,126.88
+2024-03-31,annual,balance_sheet,consolidated,INR,crores,Stockholders Equity,90498.0
+2024-03-31,annual,balance_sheet,consolidated,INR,crores,Total Debt,0.0
+2024-03-31,annual,balance_sheet,consolidated,INR,crores,Cash And Cash Equivalents,48000.0
+2024-03-31,annual,balance_sheet,consolidated,INR,crores,Total Assets,142000.0
+2024-03-31,annual,balance_sheet,consolidated,INR,crores,Current Liabilities,42000.0
+2024-03-31,annual,cash_flow,consolidated,INR,crores,Operating Cash Flow,44300.0
+2024-03-31,annual,cash_flow,consolidated,INR,crores,Capital Expenditure,3100.0

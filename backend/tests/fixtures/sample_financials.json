@@ -1,0 +1,159 @@
+{
+  "symbol": "RELIANCE",
+  "currency": "INR",
+  "unit": "crores",
+  "statements": [
+    {
+      "period_end_date": "2021-03-31",
+      "period_type": "annual",
+      "statement_type": "income",
+      "reporting_type": "consolidated",
+      "data": {
+        "Total Revenue": 539238.0,
+        "Operating Income": 55762.0,
+        "Net Income": 53739.0,
+        "Interest Expense": 21189.0,
+        "EBITDA": 80703.0,
+        "Diluted EPS": 79.82
+      }
+    },
+    {
+      "period_end_date": "2021-03-31",
+      "period_type": "annual",
+      "statement_type": "balance_sheet",
+      "reporting_type": "consolidated",
+      "data": {
+        "Stockholders Equity": 700172.0,
+        "Total Debt": 257404.0,
+        "Cash And Cash Equivalents": 17397.0,
+        "Total Assets": 1321212.0,
+        "Current Liabilities": 361730.0,
+        "Share Issued": 676.0
+      }
+    },
+    {
+      "period_end_date": "2021-03-31",
+      "period_type": "annual",
+      "statement_type": "cash_flow",
+      "reporting_type": "consolidated",
+      "data": {
+        "Operating Cash Flow": 26185.0,
+        "Capital Expenditure": 104279.0
+      }
+    },
+    {
+      "period_end_date": "2022-03-31",
+      "period_type": "annual",
+      "statement_type": "income",
+      "reporting_type": "consolidated",
+      "data": {
+        "Total Revenue": 792756.0,
+        "Operating Income": 110460.0,
+        "Net Income": 67845.0,
+        "Interest Expense": 14584.0,
+        "EBITDA": 125687.0,
+        "Diluted EPS": 100.72
+      }
+    },
+    {
+      "period_end_date": "2022-03-31",
+      "period_type": "annual",
+      "statement_type": "balance_sheet",
+      "reporting_type": "consolidated",
+      "data": {
+        "Stockholders Equity": 779485.0,
+        "Total Debt": 266305.0,
+        "Cash And Cash Equivalents": 36178.0,
+        "Total Assets": 1499665.0,
+        "Current Liabilities": 412580.0,
+        "Share Issued": 676.5
+      }
+    },
+    {
+      "period_end_date": "2022-03-31",
+      "period_type": "annual",
+      "statement_type": "cash_flow",
+      "reporting_type": "consolidated",
+      "data": {
+        "Operating Cash Flow": 110654.0,
+        "Capital Expenditure": 110100.0
+      }
+    },
+    {
+      "period_end_date": "2023-03-31",
+      "period_type": "annual",
+      "statement_type": "income",
+      "reporting_type": "consolidated",
+      "data": {
+        "Total Revenue": 892911.0,
+        "Operating Income": 124231.0,
+        "Net Income": 74088.0,
+        "Interest Expense": 19571.0,
+        "EBITDA": 153928.0,
+        "Diluted EPS": 109.52
+      }
+    },
+    {
+      "period_end_date": "2023-03-31",
+      "period_type": "annual",
+      "statement_type": "balance_sheet",
+      "reporting_type": "consolidated",
+      "data": {
+        "Stockholders Equity": 820641.0,
+        "Total Debt": 314708.0,
+        "Cash And Cash Equivalents": 67890.0,
+        "Total Assets": 1667825.0,
+        "Current Liabilities": 481230.0,
+        "Share Issued": 676.6
+      }
+    },
+    {
+      "period_end_date": "2023-03-31",
+      "period_type": "annual",
+      "statement_type": "cash_flow",
+      "reporting_type": "consolidated",
+      "data": {
+        "Operating Cash Flow": 115000.0,
+        "Capital Expenditure": 141414.0
+      }
+    },
+    {
+      "period_end_date": "2024-03-31",
+      "period_type": "annual",
+      "statement_type": "income",
+      "reporting_type": "consolidated",
+      "data": {
+        "Total Revenue": 997137.0,
+        "Operating Income": 139158.0,
+        "Net Income": 79020.0,
+        "Interest Expense": 23293.0,
+        "EBITDA": 178490.0,
+        "Diluted EPS": 116.80
+      }
+    },
+    {
+      "period_end_date": "2024-03-31",
+      "period_type": "annual",
+      "statement_type": "balance_sheet",
+      "reporting_type": "consolidated",
+      "data": {
+        "Stockholders Equity": 880450.0,
+        "Total Debt": 324622.0,
+        "Cash And Cash Equivalents": 85000.0,
+        "Total Assets": 1820450.0,
+        "Current Liabilities": 520000.0,
+        "Share Issued": 676.6
+      }
+    },
+    {
+      "period_end_date": "2024-03-31",
+      "period_type": "annual",
+      "statement_type": "cash_flow",
+      "reporting_type": "consolidated",
+      "data": {
+        "Operating Cash Flow": 145000.0,
+        "Capital Expenditure": 131000.0
+      }
+    }
+  ]
+}
